@@ -9,7 +9,7 @@ if (name === "Susan") {
 
 var dog ="satisfied"
 
-if (dog === "hungry") {
+if (dog === "satisfied") {
   console.log("Drool commencement")
 } else {
   console.log("reading the papah.")
