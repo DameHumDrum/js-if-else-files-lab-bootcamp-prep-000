@@ -10,7 +10,7 @@ if (name === "Susan") {
 var dog ="satisfied"
 
 if (dog === "satisfied") {
-  console.log("Droll commencement")
+  console.log("Drool commencement")
 } else {
   console.log("reading the papah.")
 }
